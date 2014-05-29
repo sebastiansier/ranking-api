@@ -1,0 +1,8 @@
+{
+  "name": "ranking-api",
+  "description": "API to calculate soccer positions table",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+  }
+}
