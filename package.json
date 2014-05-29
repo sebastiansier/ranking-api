@@ -1,8 +1,29 @@
 {
   "name": "ranking-api",
-  "description": "API to calculate soccer positions table",
   "version": "0.0.1",
-  "private": true,
-  "dependencies": {
+  "description": "An API to calculate a raking table based on match results",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sebastiansier/ranking-api.git"
+  },
+  "keywords": [
+    "ranking",
+    "api",
+    "soccer"
+  ],
+  "author": "Sebastian Sierra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebastiansier/ranking-api/issues"
+  },
+  "homepage": "https://github.com/sebastiansier/ranking-api",
+
+  "engines": {
+    "node": "0.10.x"
   }
 }
