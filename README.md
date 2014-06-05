@@ -3,7 +3,7 @@ ranking-api
 
 Calculate soccer's ranking table based on matches results
 
-This is just a prof of concept of building an API with node.
+This is just a proof of concept of building an API with node.
 
 Prerequisites
 -------------
